@@ -1,6 +1,6 @@
 goss-icm-forms
 ==============
-Forms for use with Goss Interactive's Intelligent Content Management application, in XML format.
+Forms for use with Goss Interactive's Intelligent Content Management (iCM) application, in XML format.
 
 Forms in this branch are for use with Version 10 of iCM.
 
